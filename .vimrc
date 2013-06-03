@@ -31,3 +31,4 @@ set t_vb=
 set tm=500
 
 set colorcolumn=80
+vmap s S
