@@ -3,7 +3,9 @@ call pathogen#helptags()
 
 syntax on 
 set number
-colorscheme desert
+
+" white ones : morning, zellner. dark ones : evening, slate
+colorscheme zellner
 set mouse=a
 set showcmd
 filetype plugin indent on
