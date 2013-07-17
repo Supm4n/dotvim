@@ -31,6 +31,7 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set tm=500
+set ts=2
 
 set colorcolumn=80
 vmap s S
